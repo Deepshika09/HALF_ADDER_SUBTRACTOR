@@ -1,3 +1,5 @@
+# Name:Deepshika hemanth kumar
+# register number :212224220020
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
@@ -34,6 +36,10 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+![turht table 1](https://github.com/user-attachments/assets/b9a9d518-b19e-4187-b74b-44c10f7d6483)
+
+![truth table 2](https://github.com/user-attachments/assets/2906e47d-cf17-445c-909e-4df4dc024705)
+
 
 **Procedure**
 
@@ -50,12 +56,9 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-
-Developed by: RegisterNumber:*/
-
-**RTL Schematic**
+![program exp](https://github.com/user-attachments/assets/727298ba-43eb-43d7-95d3-422ee21c531a)
 
 **Output/TIMING Waveform**
+![waveform](https://github.com/user-attachments/assets/fa28d95e-efdd-467f-8f03-cd79b8f333fa)
 
 **Result:**
